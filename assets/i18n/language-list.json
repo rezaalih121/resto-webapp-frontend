@@ -1,0 +1,712 @@
+[
+  {
+      "id": 1,
+      "name": "Afrikaans",
+      "code": "af"
+  },
+  {
+      "id": 2,
+      "name": "Albanian - shqip",
+      "code": "sq"
+  },
+  {
+      "id": 3,
+      "name": "Amharic - አማርኛ",
+      "code": "am"
+  },
+  {
+      "id": 4,
+      "name": "Arabic - العربية",
+      "code": "ar"
+  },
+  {
+      "id": 5,
+      "name": "Aragonese - aragonés",
+      "code": "an"
+  },
+  {
+      "id": 6,
+      "name": "Armenian - հայերեն",
+      "code": "hy"
+  },
+  {
+      "id": 7,
+      "name": "Asturian - asturianu",
+      "code": "ast"
+  },
+  {
+      "id": 8,
+      "name": "Azerbaijani - azərbaycan dili",
+      "code": "az"
+  },
+  {
+      "id": 9,
+      "name": "Basque - euskara",
+      "code": "eu"
+  },
+  {
+      "id": 10,
+      "name": "Belarusian - беларуская",
+      "code": "be"
+  },
+  {
+      "id": 11,
+      "name": "Bengali - বাংলা",
+      "code": "bn"
+  },
+  {
+      "id": 12,
+      "name": "Bosnian - bosanski",
+      "code": "bs"
+  },
+  {
+      "id": 13,
+      "name": "Breton - brezhoneg",
+      "code": "br"
+  },
+  {
+      "id": 14,
+      "name": "Bulgarian - български",
+      "code": "bg"
+  },
+  {
+      "id": 15,
+      "name": "Catalan - català",
+      "code": "ca"
+  },
+  {
+      "id": 16,
+      "name": "Central Kurdish - کوردی (دەستنوسی عەرەبی)",
+      "code": "ckb"
+  },
+  {
+      "id": 17,
+      "name": "Chinese - 中文",
+      "code": "zh"
+  },
+  {
+      "id": 18,
+      "name": "Chinese (Hong Kong) - 中文（香港）",
+      "code": "zh-HK"
+  },
+  {
+      "id": 19,
+      "name": "Chinese (Simplified) - 中文（简体）",
+      "code": "zh-CN"
+  },
+  {
+      "id": 20,
+      "name": "Chinese (Traditional) - 中文（繁體）",
+      "code": "zh-TW"
+  },
+  {
+      "id": 21,
+      "name": "Corsican",
+      "code": "co"
+  },
+  {
+      "id": 22,
+      "name": "Croatian - hrvatski",
+      "code": "hr"
+  },
+  {
+      "id": 23,
+      "name": "Czech - čeština",
+      "code": "cs"
+  },
+  {
+      "id": 24,
+      "name": "Danish - dansk",
+      "code": "da"
+  },
+  {
+      "id": 25,
+      "name": "Dutch - Nederlands",
+      "code": "nl"
+  },
+  {
+      "id": 26,
+      "name": "English",
+      "code": "en"
+  },
+  {
+      "id": 27,
+      "name": "English (Australia)",
+      "code": "en-AU"
+  },
+  {
+      "id": 28,
+      "name": "English (Canada)",
+      "code": "en-CA"
+  },
+  {
+      "id": 29,
+      "name": "English (India)",
+      "code": "en-IN"
+  },
+  {
+      "id": 30,
+      "name": "English (New Zealand)",
+      "code": "en-NZ"
+  },
+  {
+      "id": 31,
+      "name": "English (South Africa)",
+      "code": "en-ZA"
+  },
+  {
+      "id": 32,
+      "name": "English (United Kingdom)",
+      "code": "en-GB"
+  },
+  {
+      "id": 33,
+      "name": "English (United States)",
+      "code": "en-US"
+  },
+  {
+      "id": 34,
+      "name": "Esperanto - esperanto",
+      "code": "eo"
+  },
+  {
+      "id": 35,
+      "name": "Estonian - eesti",
+      "code": "et"
+  },
+  {
+      "id": 36,
+      "name": "Faroese - føroyskt",
+      "code": "fo"
+  },
+  {
+      "id": 37,
+      "name": "Filipino",
+      "code": "fil"
+  },
+  {
+      "id": 38,
+      "name": "Finnish - suomi",
+      "code": "fi"
+  },
+  {
+      "id": 39,
+      "name": "French - français",
+      "code": "fr"
+  },
+  {
+      "id": 40,
+      "name": "French (Canada) - français (Canada)",
+      "code": "fr-CA"
+  },
+  {
+      "id": 41,
+      "name": "French (France) - français (France)",
+      "code": "fr-FR"
+  },
+  {
+      "id": 42,
+      "name": "French (Switzerland) - français (Suisse)",
+      "code": "fr-CH"
+  },
+  {
+      "id": 43,
+      "name": "Galician - galego",
+      "code": "gl"
+  },
+  {
+      "id": 44,
+      "name": "Georgian - ქართული",
+      "code": "ka"
+  },
+  {
+      "id": 45,
+      "name": "German - Deutsch",
+      "code": "de"
+  },
+  {
+      "id": 46,
+      "name": "German (Austria) - Deutsch (Österreich)",
+      "code": "de-AT"
+  },
+  {
+      "id": 47,
+      "name": "German (Germany) - Deutsch (Deutschland)",
+      "code": "de-DE"
+  },
+  {
+      "id": 48,
+      "name": "German (Liechtenstein) - Deutsch (Liechtenstein)",
+      "code": "de-LI"
+  },
+  {
+      "id": 49,
+      "name": "German (Switzerland) - Deutsch (Schweiz)",
+      "code": "de-CH"
+  },
+  {
+      "id": 50,
+      "name": "Greek - Ελληνικά",
+      "code": "el"
+  },
+  {
+      "id": 51,
+      "name": "Guarani",
+      "code": "gn"
+  },
+  {
+      "id": 52,
+      "name": "Gujarati - ગુજરાતી",
+      "code": "gu"
+  },
+  {
+      "id": 53,
+      "name": "Hausa",
+      "code": "ha"
+  },
+  {
+      "id": 54,
+      "name": "Hawaiian - ʻŌlelo Hawaiʻi",
+      "code": "haw"
+  },
+  {
+      "id": 55,
+      "name": "Hebrew - עברית",
+      "code": "he"
+  },
+  {
+      "id": 56,
+      "name": "Hindi - हिन्दी",
+      "code": "hi"
+  },
+  {
+      "id": 57,
+      "name": "Hungarian - magyar",
+      "code": "hu"
+  },
+  {
+      "id": 58,
+      "name": "Icelandic - íslenska",
+      "code": "is"
+  },
+  {
+      "id": 59,
+      "name": "Indonesian - Indonesia",
+      "code": "id"
+  },
+  {
+      "id": 60,
+      "name": "Interlingua",
+      "code": "ia"
+  },
+  {
+      "id": 61,
+      "name": "Irish - Gaeilge",
+      "code": "ga"
+  },
+  {
+      "id": 62,
+      "name": "Italian - italiano",
+      "code": "it"
+  },
+  {
+      "id": 63,
+      "name": "Italian (Italy) - italiano (Italia)",
+      "code": "it-IT"
+  },
+  {
+      "id": 64,
+      "name": "Italian (Switzerland) - italiano (Svizzera)",
+      "code": "it-CH"
+  },
+  {
+      "id": 65,
+      "name": "Japanese - 日本語",
+      "code": "ja"
+  },
+  {
+      "id": 66,
+      "name": "Kannada - ಕನ್ನಡ",
+      "code": "kn"
+  },
+  {
+      "id": 67,
+      "name": "Kazakh - қазақ тілі",
+      "code": "kk"
+  },
+  {
+      "id": 68,
+      "name": "Khmer - ខ្មែរ",
+      "code": "km"
+  },
+  {
+      "id": 69,
+      "name": "Korean - 한국어",
+      "code": "ko"
+  },
+  {
+      "id": 70,
+      "name": "Kurdish - Kurdî",
+      "code": "ku"
+  },
+  {
+      "id": 71,
+      "name": "Kyrgyz - кыргызча",
+      "code": "ky"
+  },
+  {
+      "id": 72,
+      "name": "Lao - ລາວ",
+      "code": "lo"
+  },
+  {
+      "id": 73,
+      "name": "Latin",
+      "code": "la"
+  },
+  {
+      "id": 74,
+      "name": "Latvian - latviešu",
+      "code": "lv"
+  },
+  {
+      "id": 75,
+      "name": "Lingala - lingála",
+      "code": "ln"
+  },
+  {
+      "id": 76,
+      "name": "Lithuanian - lietuvių",
+      "code": "lt"
+  },
+  {
+      "id": 77,
+      "name": "Macedonian - македонски",
+      "code": "mk"
+  },
+  {
+      "id": 78,
+      "name": "Malay - Bahasa Melayu",
+      "code": "ms"
+  },
+  {
+      "id": 79,
+      "name": "Malayalam - മലയാളം",
+      "code": "ml"
+  },
+  {
+      "id": 80,
+      "name": "Maltese - Malti",
+      "code": "mt"
+  },
+  {
+      "id": 81,
+      "name": "Marathi - मराठी",
+      "code": "mr"
+  },
+  {
+      "id": 82,
+      "name": "Mongolian - монгол",
+      "code": "mn"
+  },
+  {
+      "id": 83,
+      "name": "Nepali - नेपाली",
+      "code": "ne"
+  },
+  {
+      "id": 84,
+      "name": "Norwegian - norsk",
+      "code": "no"
+  },
+  {
+      "id": 85,
+      "name": "Norwegian Bokmål - norsk bokmål",
+      "code": "nb"
+  },
+  {
+      "id": 86,
+      "name": "Norwegian Nynorsk - nynorsk",
+      "code": "nn"
+  },
+  {
+      "id": 87,
+      "name": "Occitan",
+      "code": "oc"
+  },
+  {
+      "id": 88,
+      "name": "Oriya - ଓଡ଼ିଆ",
+      "code": "or"
+  },
+  {
+      "id": 89,
+      "name": "Oromo - Oromoo",
+      "code": "om"
+  },
+  {
+      "id": 90,
+      "name": "Pashto - پښتو",
+      "code": "ps"
+  },
+  {
+      "id": 91,
+      "name": "Persian - فارسی",
+      "code": "fa-IR"
+  },
+  {
+      "id": 92,
+      "name": "Polish - polski",
+      "code": "pl"
+  },
+  {
+      "id": 93,
+      "name": "Portuguese - português",
+      "code": "pt"
+  },
+  {
+      "id": 94,
+      "name": "Portuguese (Brazil) - português (Brasil)",
+      "code": "pt-BR"
+  },
+  {
+      "id": 95,
+      "name": "Portuguese (Portugal) - português (Portugal)",
+      "code": "pt-PT"
+  },
+  {
+      "id": 96,
+      "name": "Punjabi - ਪੰਜਾਬੀ",
+      "code": "pa"
+  },
+  {
+      "id": 97,
+      "name": "Quechua",
+      "code": "qu"
+  },
+  {
+      "id": 98,
+      "name": "Romanian - română",
+      "code": "ro"
+  },
+  {
+      "id": 99,
+      "name": "Romanian (Moldova) - română (Moldova)",
+      "code": "mo"
+  },
+  {
+      "id": 100,
+      "name": "Romansh - rumantsch",
+      "code": "rm"
+  },
+  {
+      "id": 101,
+      "name": "Russian - русский",
+      "code": "ru"
+  },
+  {
+      "id": 102,
+      "name": "Scottish Gaelic",
+      "code": "gd"
+  },
+  {
+      "id": 103,
+      "name": "Serbian - српски",
+      "code": "sr"
+  },
+  {
+      "id": 104,
+      "name": "Serbo-Croatian - Srpskohrvatski",
+      "code": "sh"
+  },
+  {
+      "id": 105,
+      "name": "Shona - chiShona",
+      "code": "sn"
+  },
+  {
+      "id": 106,
+      "name": "Sindhi",
+      "code": "sd"
+  },
+  {
+      "id": 107,
+      "name": "Sinhala - සිංහල",
+      "code": "si"
+  },
+  {
+      "id": 108,
+      "name": "Slovak - slovenčina",
+      "code": "sk"
+  },
+  {
+      "id": 109,
+      "name": "Slovenian - slovenščina",
+      "code": "sl"
+  },
+  {
+      "id": 110,
+      "name": "Somali - Soomaali",
+      "code": "so"
+  },
+  {
+      "id": 111,
+      "name": "Southern Sotho",
+      "code": "st"
+  },
+  {
+      "id": 112,
+      "name": "Spanish - español",
+      "code": "es"
+  },
+  {
+      "id": 113,
+      "name": "Spanish (Argentina) - español (Argentina)",
+      "code": "es-AR"
+  },
+  {
+      "id": 114,
+      "name": "Spanish (Latin America) - español (Latinoamérica)",
+      "code": "es-419"
+  },
+  {
+      "id": 115,
+      "name": "Spanish (Mexico) - español (México)",
+      "code": "es-MX"
+  },
+  {
+      "id": 116,
+      "name": "Spanish (Spain) - español (España)",
+      "code": "es-ES"
+  },
+  {
+      "id": 117,
+      "name": "Spanish (United States) - español (Estados Unidos)",
+      "code": "es-US"
+  },
+  {
+      "id": 118,
+      "name": "Sundanese",
+      "code": "su"
+  },
+  {
+      "id": 119,
+      "name": "Swahili - Kiswahili",
+      "code": "sw"
+  },
+  {
+      "id": 120,
+      "name": "Swedish - svenska",
+      "code": "sv"
+  },
+  {
+      "id": 121,
+      "name": "Tajik - тоҷикӣ",
+      "code": "tg"
+  },
+  {
+      "id": 122,
+      "name": "Tamil - தமிழ்",
+      "code": "ta"
+  },
+  {
+      "id": 123,
+      "name": "Tatar",
+      "code": "tt"
+  },
+  {
+      "id": 124,
+      "name": "Telugu - తెలుగు",
+      "code": "te"
+  },
+  {
+      "id": 125,
+      "name": "Thai - ไทย",
+      "code": "th"
+  },
+  {
+      "id": 126,
+      "name": "Tigrinya - ትግርኛ",
+      "code": "ti"
+  },
+  {
+      "id": 127,
+      "name": "Tongan - lea fakatonga",
+      "code": "to"
+  },
+  {
+      "id": 128,
+      "name": "Turkish - Türkçe",
+      "code": "tr"
+  },
+  {
+      "id": 129,
+      "name": "Turkmen",
+      "code": "tk"
+  },
+  {
+      "id": 130,
+      "name": "Twi",
+      "code": "tw"
+  },
+  {
+      "id": 131,
+      "name": "Ukrainian - українська",
+      "code": "uk"
+  },
+  {
+      "id": 132,
+      "name": "Urdu - اردو",
+      "code": "ur"
+  },
+  {
+      "id": 133,
+      "name": "Uyghur",
+      "code": "ug"
+  },
+  {
+      "id": 134,
+      "name": "Uzbek - o‘zbek",
+      "code": "uz"
+  },
+  {
+      "id": 135,
+      "name": "Vietnamese - Tiếng Việt",
+      "code": "vi"
+  },
+  {
+      "id": 136,
+      "name": "Walloon - wa",
+      "code": "wa"
+  },
+  {
+      "id": 137,
+      "name": "Welsh - Cymraeg",
+      "code": "cy"
+  },
+  {
+      "id": 138,
+      "name": "Western Frisian",
+      "code": "fy"
+  },
+  {
+      "id": 139,
+      "name": "Xhosa",
+      "code": "xh"
+  },
+  {
+      "id": 140,
+      "name": "Yiddish",
+      "code": "yi"
+  },
+  {
+      "id": 141,
+      "name": "Yoruba - Èdè Yorùbá",
+      "code": "yo"
+  },
+  {
+      "id": 142,
+      "name": "Zulu - isiZulu",
+      "code": "zu"
+  }
+]
