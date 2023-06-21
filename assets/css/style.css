@@ -932,7 +932,6 @@ section {
 # Events background: url(../img/events-bg.jpg)
 --------------------------------------------------------------*/
 .events {
-   
   background-size: cover;
   position: relative;
 }
