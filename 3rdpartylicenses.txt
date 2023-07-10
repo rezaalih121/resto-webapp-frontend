@@ -206,6 +206,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 ng-apexcharts
 MIT
 
+ngx-captcha
+MIT
+
 ngx-editor
 MIT
 MIT License
